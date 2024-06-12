@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LoginPage</string>
+    <string name="pass_ping">Enter your pin: </string>
+    <string name="username">Enter your name: </string>
+    <string name="login_button">Login</string>
+    <string name="Cancel_button">Cancel</string>
+</resources>
